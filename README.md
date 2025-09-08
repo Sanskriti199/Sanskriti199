@@ -6,7 +6,6 @@ I'm a third-year B.Tech Computer Science and Engineering student passionate abou
 
 ### 📚 Published Research
 
-I am a co-author of the following paper:
 I am a co-author of a research paper that has been published in a peer-reviewed journal.
 
 * **“AnalySta: AI-Powered Stock Analysis Predict and Investment System”**
