@@ -20,11 +20,10 @@ I am a co-author of the following paper:
 * **Interests:** AI/ML, Web Development
 
 ---
-
-### GitHub Stats
+### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanskriti199&show_icons=true&theme=vue)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti199&layout=compact&theme=vue)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti199&layout=compact&card_width=440&theme=vue)
 
 ---
 
