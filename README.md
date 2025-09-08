@@ -7,9 +7,11 @@ I'm a third-year B.Tech Computer Science and Engineering student passionate abou
 ### 📚 Published Research
 
 I am a co-author of the following paper:
+I am a co-author of a research paper that has been published in a peer-reviewed journal.
 
 * **“AnalySta: AI-Powered Stock Analysis Predict and Investment System”**
-    * Published in the *International Journal of All Research Education and Scientific Methods (IJARESM)*, Vol. 13, Issue 4, April 2025.
+    * **Published in:** *International Journal of All Research Education and Scientific Methods (IJARESM)*, Vol. 13, Issue 4, April 2025.
+    * **View Paper:** **[https://www.ijaresm.com/volume-13/issue-4-april-2025]**
 
 ---
 
