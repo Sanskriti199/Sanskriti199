@@ -10,7 +10,7 @@ I am a co-author of a research paper that has been published in a peer-reviewed 
 
 * **“AnalySta: AI-Powered Stock Analysis Predict and Investment System”**
     * **Published in:** *International Journal of All Research Education and Scientific Methods (IJARESM)*, Vol. 13, Issue 4, April 2025.
-    * **View Paper:** **[https://www.ijaresm.com/volume-13/issue-4-april-2025]**
+    * **View Paper:** **[https://www.ijaresm.com/uploaded_files/document_file/Dr._M_.K_._Jayanthi_Kannan_J8WL.pdf]**
 
 ---
 
