@@ -154,8 +154,10 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanskriti199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti199&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanskriti199&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanskriti199&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanskriti199&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanskriti199&theme=tokyonight" width="49%" />
 
 <br/>
 
