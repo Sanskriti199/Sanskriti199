@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="112" viewBox="0 0 420 112">
+<defs><linearGradient id="gp_analysta" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4fa3"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+<linearGradient id="bp_analysta" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1b2130"/></linearGradient></defs>
+<rect x="1.5" y="1.5" width="417" height="109" rx="14" fill="url(#bp_analysta)" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="417" height="109" rx="14" fill="none" stroke="url(#gp_analysta)" stroke-width="3" stroke-linecap="round" stroke-dasharray="110 1064"><animate attributeName="stroke-dashoffset" from="0" to="-1174" dur="4s" repeatCount="indefinite"/></rect>
+<circle cx="50" cy="56.0" r="27.0" fill="#ff4fa3" fill-opacity="0.12"><animate attributeName="r" values="25.919999999999998;29.52;25.919999999999998" dur="2.6s" repeatCount="indefinite"/></circle>
+<g><animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="2.4s" repeatCount="indefinite"/><text x="50" y="68.24" text-anchor="middle" font-size="36" font-family="Noto Color Emoji, Apple Color Emoji, Segoe UI Emoji, sans-serif">📈</text></g>
+<text x="93.0" y="50.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">AnalySta</text>
+<rect x="93.0" y="64.0" width="43" height="20" rx="10" fill="#FF6F00" fill-opacity="0.18" stroke="#FF6F00" stroke-opacity="0.7"/><text x="114.5" y="78.0" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" fill="#e6edf3">LSTM</text>
+<rect x="142.0" y="64.0" width="63" height="20" rx="10" fill="#FFD21E" fill-opacity="0.18" stroke="#FFD21E" stroke-opacity="0.7"/><text x="173.5" y="78.0" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" fill="#e6edf3">FinBERT</text>
+<rect x="211.0" y="64.0" width="43" height="20" rx="10" fill="#8A2BE2" fill-opacity="0.18" stroke="#8A2BE2" stroke-opacity="0.7"/><text x="232.5" y="78.0" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" fill="#e6edf3">SHAP</text>
+<rect x="260.0" y="64.0" width="77" height="20" rx="10" fill="#3fb950" fill-opacity="0.18" stroke="#3fb950" stroke-opacity="0.7"/><text x="298.5" y="78.0" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" fill="#e6edf3">Published</text>
+</svg>
