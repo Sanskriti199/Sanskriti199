@@ -1,11 +1,11 @@
 <img align="center" src="assets/banner.gif" alt="banner" width="100%">
 
 <table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
+<tr>
+<td>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=3000&pause=1500&color=344FEB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sanskriti;Building+AI+that+ships;Final+Year+%40+VIT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=3000&pause=1500&color=FF4FA3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sanskriti;Building+AI+that+ships;Final+Year+%40+VIT" />
 </p>
 <h4 align="center"><i>A Final Year student of CSE (spec. in AIML)</i></h4>
 <p align="center">
@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/github/followers/Sanskriti199?style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -80,17 +80,6 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Sanskriti199/real-time-ai-gym-trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti199&repo=real-time-ai-gym-trainer&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Sanskriti199/ai-attendance-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti199&repo=ai-attendance-system&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Sanskriti199/ANALYSTAA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti199&repo=ANALYSTAA&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Sanskriti199/voice-command-shopping-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti199&repo=voice-command-shopping-assistant&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Sanskriti199/NST-AdaIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti199&repo=NST-AdaIN&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Sanskriti199/cv-hand-gesture-detector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti199&repo=cv-hand-gesture-detector&theme=tokyonight&hide_border=true" /></a>
-
-</div>
-
 | Project | What it does | Stack |
 |---|---|---|
 | 🏋️ [**AI Real-Time Gym Coach**](https://github.com/Sanskriti199/real-time-ai-gym-trainer) | Real-time pose tracking, rep counting & form correction with voice feedback (~100ms latency) | `MediaPipe` `OpenCV` `Streamlit` `Groq LLM` `gTTS` |
@@ -103,7 +92,6 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 | 🌐 [**Gym Trainer Landing Page**](https://github.com/Sanskriti199/ai-gym-trainer-landing) | Landing page for the AI gym coach | `HTML` `CSS` |
 | 🏫 [**SmartClass**](https://github.com/Sanskriti199/smartclass) | Smart classroom web app | `HTML` |
 | 🛍️ [**AI Marketplace Sim**](https://github.com/Sanskriti199/AI-Marketplace-Sim) | AI marketplace simulation | `HTML` |
-| 🔒 **PayProof** *(private)* | Detects fake UPI payment screenshots using image processing, OCR & ML, with payment risk scoring | `Python` `OCR` `ML` |
 
 ---
 
@@ -136,12 +124,11 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanskriti199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti199&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Sanskriti199&theme=tokyonight&hide_border=true" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" />
 
 </div>
 
@@ -151,7 +138,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskriti199&theme=tokyo-night&hide_border=true&area=true&custom_title=Sanskriti's%20Contribution%20Graph" width="100%" />
+<img src="https://ghchart.rshah.org/1f6feb/Sanskriti199" alt="Sanskriti's contribution graph" width="100%" />
 
 </div>
 
@@ -171,19 +158,17 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ---
 
-## ✍️ Random Dev Quote
+## 🔥 Showing Up Matters
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=Showing+up+matters.;Consistency+beats+motivation.;Commit.+Push.+Repeat." />
 
 </div>
 
 ---
 
 <div align="center">
-
-⭐ *If you like something here, drop a star!* ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%"/>
 
