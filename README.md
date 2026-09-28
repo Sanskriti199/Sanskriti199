@@ -80,56 +80,23 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🏋️ AI Real-Time Gym Coach</h3>
-<p>Real-time pose tracking, rep counting &amp; form correction with voice feedback (~100ms latency).</p>
-<p><img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/gTTS-4285F4?style=flat-square"/></p>
-<a href="https://github.com/Sanskriti199/real-time-ai-gym-trainer"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-<td width="50%" valign="top">
-<h3>🎯 AI Attendance System</h3>
-<p>Dual-modality face + voice biometric attendance that stops proxy and spoofing.</p>
-<p><img src="https://img.shields.io/badge/dlib-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Resemblyzer-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/></p>
-<a href="https://github.com/Sanskriti199/ai-attendance-system"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📈 AnalySta</h3>
-<p>LSTM stock prediction with FinBERT sentiment &amp; SHAP explainability for Buy/Hold/Sell signals. 📄 Published in IJARESM 2025.</p>
-<p><img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/FinBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></p>
-<a href="https://github.com/Sanskriti199/ANALYSTAA"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-<td width="50%" valign="top">
-<h3>🛒 Voice Shopping Assistant</h3>
-<p>Voice-command shopping with smart recommendations.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></p>
-<a href="https://github.com/Sanskriti199/voice-command-shopping-assistant"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎨 NST-AdaIN</h3>
-<p>Neural style transfer web app using Adaptive Instance Normalization.</p>
-<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/AdaIN-FF4FA3?style=flat-square"/></p>
-<a href="https://github.com/Sanskriti199/NST-AdaIN"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-<td width="50%" valign="top">
-<h3>✋ CV Hand Gesture Detector</h3>
-<p>Detects hand gestures in real time using computer vision.</p>
-<p><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></p>
-<a href="https://github.com/Sanskriti199/cv-hand-gesture-detector"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-**🧩 More builds**
+<a href="https://github.com/Sanskriti199/real-time-ai-gym-trainer"><img src="assets/cards/p_gym.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/ai-attendance-system"><img src="assets/cards/p_attendance.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/ANALYSTAA"><img src="assets/cards/p_analysta.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/voice-command-shopping-assistant"><img src="assets/cards/p_voicecart.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/NST-AdaIN"><img src="assets/cards/p_nst.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/cv-hand-gesture-detector"><img src="assets/cards/p_gesture.svg" width="48%"/></a>
 
-<a href="https://github.com/Sanskriti199/Product-feature-extractor"><img src="https://img.shields.io/badge/Product%20Feature%20Extractor-161b22?style=for-the-badge"/></a> <a href="https://github.com/Sanskriti199/ai-gym-trainer-landing"><img src="https://img.shields.io/badge/Gym%20Trainer%20Landing-161b22?style=for-the-badge"/></a> <a href="https://github.com/Sanskriti199/smartclass"><img src="https://img.shields.io/badge/SmartClass-161b22?style=for-the-badge"/></a> <a href="https://github.com/Sanskriti199/AI-Marketplace-Sim"><img src="https://img.shields.io/badge/AI%20Marketplace%20Sim-161b22?style=for-the-badge"/></a>
+<br/>
+
+**🧩 More Builds**
+
+<a href="https://github.com/Sanskriti199/Product-feature-extractor"><img src="assets/cards/m_extractor.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/ai-gym-trainer-landing"><img src="assets/cards/m_landing.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/smartclass"><img src="assets/cards/m_smartclass.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/AI-Marketplace-Sim"><img src="assets/cards/m_market.svg" width="32%"/></a>
 
 </div>
 
@@ -139,32 +106,47 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/21_Days_21_Projects-21%2F21_Completed-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Teacher's_Day_Challenge_2025-Completed-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Daily_DSA-C++-FF4FA3?style=for-the-badge"/>
+<a href="https://github.com/Sanskriti199/Teacher-s-Day-Challenge-2025"><img src="assets/cards/c_teacher.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/DSA_challenges"><img src="assets/cards/c_dsa.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/LeetCode"><img src="assets/cards/c_leetcode.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/cpp-practice"><img src="assets/cards/c_cpp.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/sql-practice"><img src="assets/cards/c_sql.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-revision"><img src="assets/cards/c_pyrev.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/my-AIML-Journey"><img src="assets/cards/c_journey.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/open-source-challenge"><img src="assets/cards/c_oss.svg" width="32%"/></a>
 
 </div>
 
-<table width="100%">
-<tr><th>Track</th><th>What I'm doing</th><th>Repo</th></tr>
-<tr><td>🧗 <b>DSA Challenges</b></td><td>Daily problems from LeetCode &amp; GeeksforGeeks, building consistency</td><td><a href="https://github.com/Sanskriti199/DSA_challenges"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a></td></tr>
-<tr><td>🧩 <b>LeetCode</b></td><td>Interview-focused solutions collection</td><td><a href="https://github.com/Sanskriti199/LeetCode"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a></td></tr>
-<tr><td>⚙️ <b>cpp-practice</b></td><td>C++ DSA practice for placements</td><td><a href="https://github.com/Sanskriti199/cpp-practice"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a></td></tr>
-<tr><td>🗄️ <b>sql-practice</b></td><td>Solving LeetCode SQL problems daily</td><td><a href="https://github.com/Sanskriti199/sql-practice"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a></td></tr>
-<tr><td>🐍 <b>python-revision</b></td><td>Python revision for placement prep</td><td><a href="https://github.com/Sanskriti199/python-revision"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a></td></tr>
-<tr><td>🧪 <b>python-mini-projects</b></td><td>Mini projects built for practice and learning</td><td><a href="https://github.com/Sanskriti199/python-mini-projects"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a></td></tr>
-<tr><td>🗺️ <b>my-AIML-Journey</b></td><td>Documenting my AI/ML journey with code &amp; mini-projects</td><td><a href="https://github.com/Sanskriti199/my-AIML-Journey"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a></td></tr>
-<tr><td>📅 <b>Teacher's Day Challenge 2025</b></td><td>Committed to learning daily and finished the full challenge</td><td><a href="https://github.com/Sanskriti199/Teacher-s-Day-Challenge-2025"><img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square"/></a></td></tr>
-<tr><td>🌍 <b>Open Source Challenge</b></td><td>Explored good-first-issue projects: search4letters, DayZen, Mini-Projects, GoodFirstIssue, good-first-issue</td><td><a href="https://github.com/Sanskriti199/open-source-challenge"><img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-</table>
+---
+
+## 🧪 Python Mini Projects
+
+<div align="center">
+
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Calculator.py"><img src="assets/cards/g_calc.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Countdown%20Timer.ipynb"><img src="assets/cards/g_timer.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Hangman_game.ipynb"><img src="assets/cards/g_hangman.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Number_Guessing_Game.ipynb"><img src="assets/cards/g_guess.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Tic_Tac_Toe_Game_using_Random_Number.ipynb"><img src="assets/cards/g_ttt.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/UnitConverter.py"><img src="assets/cards/g_unit.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/rockpaperscissorgame.py"><img src="assets/cards/g_rps.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/snake_water_game.py"><img src="assets/cards/g_snake.svg" width="32%"/></a>
+
+<br/>
+
+<a href="https://github.com/Sanskriti199/python-mini-projects"><img src="https://img.shields.io/badge/Explore_all-python--mini--projects-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
 ## 📚 Published Research
 
-> **"AnalySta: AI-Powered Stock Analysis Predict and Investment System"**
-> 📖 *International Journal of All Research Education and Scientific Methods (IJARESM), Vol. 13, Issue 4, April 2025*
-> 🔗 [Read the paper](https://www.ijaresm.com/uploaded_files/document_file/Dr._M_.K_._Jayanthi_Kannan_J8WL.pdf)
+<div align="center">
+
+<a href="https://www.ijaresm.com/uploaded_files/document_file/Dr._M_.K_._Jayanthi_Kannan_J8WL.pdf"><img src="assets/cards/paper.svg" width="100%" alt="Open the published paper"/></a>
+
+</div>
 
 ---
 
