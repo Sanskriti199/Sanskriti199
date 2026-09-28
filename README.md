@@ -144,7 +144,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<a href="https://www.ijaresm.com/uploaded_files/document_file/Dr._M_.K_._Jayanthi_Kannan_J8WL.pdf"><img src="assets/cards/paper.svg" width="100%" alt="Open the published paper"/></a>
+<a href="https://drive.google.com/file/d/1157o8NGPFKv7z8ro7uiZVrhuyGxdkvIV/view?usp=sharing"><img src="assets/cards/paper.svg" width="100%" alt="Open the published paper"/></a>
 
 </div>
 
