@@ -85,18 +85,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 <a href="https://github.com/Sanskriti199/real-time-ai-gym-trainer"><img src="assets/cards/p_gym.svg" width="48%"/></a>
 <a href="https://github.com/Sanskriti199/ai-attendance-system"><img src="assets/cards/p_attendance.svg" width="48%"/></a>
 <a href="https://github.com/Sanskriti199/ANALYSTAA"><img src="assets/cards/p_analysta.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/voice-command-shopping-assistant"><img src="assets/cards/p_voicecart.svg" width="48%"/></a>
 <a href="https://github.com/Sanskriti199/NST-AdaIN"><img src="assets/cards/p_nst.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/cv-hand-gesture-detector"><img src="assets/cards/p_gesture.svg" width="48%"/></a>
-
-<br/>
-
-**🧩 More Builds**
-
-<a href="https://github.com/Sanskriti199/Product-feature-extractor"><img src="assets/cards/m_extractor.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/ai-gym-trainer-landing"><img src="assets/cards/m_landing.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/smartclass"><img src="assets/cards/m_smartclass.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/AI-Marketplace-Sim"><img src="assets/cards/m_market.svg" width="32%"/></a>
 
 </div>
 
@@ -106,14 +95,11 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<a href="https://github.com/Sanskriti199/Teacher-s-Day-Challenge-2025"><img src="assets/cards/c_teacher.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/DSA_challenges"><img src="assets/cards/c_dsa.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/LeetCode"><img src="assets/cards/c_leetcode.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/cpp-practice"><img src="assets/cards/c_cpp.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/sql-practice"><img src="assets/cards/c_sql.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-revision"><img src="assets/cards/c_pyrev.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/my-AIML-Journey"><img src="assets/cards/c_journey.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/open-source-challenge"><img src="assets/cards/c_oss.svg" width="32%"/></a>
+<a href="https://github.com/Sanskriti199/DSA_challenges"><img src="assets/cards/c_dsa.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/LeetCode"><img src="assets/cards/c_leetcode.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/sql-practice"><img src="assets/cards/c_sql.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/Teacher-s-Day-Challenge-2025"><img src="assets/cards/c_teacher.svg" width="48%"/></a>
+
 
 </div>
 
@@ -123,18 +109,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Calculator.py"><img src="assets/cards/g_calc.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Countdown%20Timer.ipynb"><img src="assets/cards/g_timer.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Hangman_game.ipynb"><img src="assets/cards/g_hangman.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Number_Guessing_Game.ipynb"><img src="assets/cards/g_guess.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/Tic_Tac_Toe_Game_using_Random_Number.ipynb"><img src="assets/cards/g_ttt.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/UnitConverter.py"><img src="assets/cards/g_unit.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/rockpaperscissorgame.py"><img src="assets/cards/g_rps.svg" width="32%"/></a>
-<a href="https://github.com/Sanskriti199/python-mini-projects/blob/main/snake_water_game.py"><img src="assets/cards/g_snake.svg" width="32%"/></a>
-
-<br/>
-
-<a href="https://github.com/Sanskriti199/python-mini-projects"><img src="https://img.shields.io/badge/Explore_all-python--mini--projects-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Sanskriti199/python-mini-projects"><img src="assets/cards/mini.svg" width="100%" alt="Open python-mini-projects"/></a>
 
 </div>
 
