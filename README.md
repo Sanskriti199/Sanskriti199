@@ -142,16 +142,6 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/1f6feb/Sanskriti199" alt="Sanskriti's contribution graph" width="100%" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
