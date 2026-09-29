@@ -82,10 +82,10 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<a href="https://github.com/Sanskriti199/real-time-ai-gym-trainer"><img src="assets/cards/p_gym.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/ai-attendance-system"><img src="assets/cards/p_attendance.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/ANALYSTAA"><img src="assets/cards/p_analysta.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/NST-AdaIN"><img src="assets/cards/p_nst.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/real-time-ai-gym-trainer"><img src="assets/cards/p_gym.svg" width="24%"/></a>
+<a href="https://github.com/Sanskriti199/ai-attendance-system"><img src="assets/cards/p_attendance.svg" width="24%"/></a>
+<a href="https://github.com/Sanskriti199/ANALYSTAA"><img src="assets/cards/p_analysta.svg" width="24%"/></a>
+<a href="https://github.com/Sanskriti199/NST-AdaIN"><img src="assets/cards/p_nst.svg" width="24%"/></a>
 
 </div>
 
@@ -95,10 +95,10 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<a href="https://github.com/Sanskriti199/DSA_challenges"><img src="assets/cards/c_dsa.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/LeetCode"><img src="assets/cards/c_leetcode.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/sql-practice"><img src="assets/cards/c_sql.svg" width="48%"/></a>
-<a href="https://github.com/Sanskriti199/Teacher-s-Day-Challenge-2025"><img src="assets/cards/c_teacher.svg" width="48%"/></a>
+<a href="https://github.com/Sanskriti199/DSA_challenges"><img src="assets/cards/c_dsa.svg" width="24%"/></a>
+<a href="https://github.com/Sanskriti199/LeetCode"><img src="assets/cards/c_leetcode.svg" width="24%"/></a>
+<a href="https://github.com/Sanskriti199/sql-practice"><img src="assets/cards/c_sql.svg" width="24%"/></a>
+<a href="https://github.com/Sanskriti199/Teacher-s-Day-Challenge-2025"><img src="assets/cards/c_teacher.svg" width="24%"/></a>
 
 
 </div>
