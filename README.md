@@ -127,15 +127,16 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanskriti199&theme=tokyonight" width="49%" style="vertical-align:middle" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanskriti199&theme=tokyonight" width="49%" style="vertical-align:middle" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanskriti199&theme=tokyonight" width="49%" style="vertical-align:middle" />
-<img src="https://streak-stats.demolab.com/?user=Sanskriti199&theme=tokyonight&hide_border=true" width="49%" style="vertical-align:middle" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanskriti199&theme=tokyonight" width="100%" /></td>
+<td width="50%" align="center" valign="middle"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanskriti199&theme=tokyonight" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanskriti199&theme=tokyonight" width="100%" /></td>
+<td width="50%" align="center" valign="middle"><img src="https://streak-stats.demolab.com/?user=Sanskriti199&theme=tokyonight&hide_border=true" width="100%" /></td>
+</tr>
+</table>
 
 ---
 
