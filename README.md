@@ -129,14 +129,11 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanskriti199&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanskriti199&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanskriti199&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanskriti199&theme=tokyonight" width="49%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanskriti199&theme=tokyonight" width="49%" style="vertical-align:middle" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanskriti199&theme=tokyonight" width="49%" style="vertical-align:middle" />
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=Sanskriti199&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanskriti199&theme=tokyonight" width="49%" style="vertical-align:middle" />
+<img src="https://streak-stats.demolab.com/?user=Sanskriti199&theme=tokyonight&hide_border=true" width="49%" style="vertical-align:middle" />
 
 </div>
 
