@@ -1,6 +1,6 @@
 <img align="center" src="assets/banner.gif" alt="banner" width="100%">
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"> 
 <tr>
 <td>
 
