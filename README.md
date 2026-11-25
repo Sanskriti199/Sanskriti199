@@ -49,6 +49,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ## 💻 Tech Stack
 <div align="center">
+  
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -81,7 +82,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
   <img src="https://img.shields.io/badge/Prompt%20Engineering-GenAI-7B61FF?style=flat-square" />
 </p>
 
-### 👁️ Computer Vision & Audio Processing
+### Computer Vision & Audio Processing
 
 <p>
   <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
