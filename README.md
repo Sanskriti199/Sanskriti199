@@ -48,7 +48,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 ---
 
 ## 💻 Tech Stack
-
+<div align="center">
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -110,7 +110,7 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 </p>
-
+</div>
 
 ---
 
