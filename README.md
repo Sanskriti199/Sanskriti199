@@ -49,32 +49,68 @@ I'm a final-year **B.Tech CSE (AI/ML)** student who loves *solving complex probl
 
 ## 💻 Tech Stack
 
-<div align="center">
+### 👨‍💻 Programming Languages
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark" />
+### 🧠 AI / ML & Data Science
 
-**AI / ML & Vision**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/LSTM-Deep%20Learning-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/FinBERT-Transformers-FFD21E?style=flat-square" />
+  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=flat-square" />
+</p>
 
-**Backend, DB & Tools**
+### 🤖 Generative AI & Agentic AI
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,sqlite,supabase,git,github,vscode&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agno-Multi--Agent%20Systems-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-GenAI-7B61FF?style=flat-square" />
+</p>
 
-<br/>
+### 👁️ Computer Vision & Audio Processing
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![FinBERT](https://img.shields.io/badge/FinBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-8A2BE2?style=flat-square)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+</p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Face%20Recognition-Biometric%20AI-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/dlib-Facial%20Analysis-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resemblyzer-Voice%20Verification-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Librosa-Audio%20Processing-FF8C00?style=flat-square" />
+</p>
+
+### ⚙️ Backend, Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,sqlite,git,github,vscode&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+</p>
+
 
 ---
 
